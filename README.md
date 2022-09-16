@@ -1,3 +1,1 @@
-# SupportBank-Java-Template
-
-Template Maven command-line app for the SupportBank exercise
+# Not sure what I did to the first repo but I wasn't able to push anything to it so I've made this one
