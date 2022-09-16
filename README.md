@@ -1,3 +1,3 @@
-# SupportBank1
-#Test repo
-#First edit
+# SupportBank-Java-Template
+
+Template Maven command-line app for the SupportBank exercise
